@@ -1,0 +1,10 @@
+﻿product_id,component_name,required_qty,unit,standard_cost_pln
+SZAFA_PAX_01,Plyta_Wiorowa_18mm,3.5,m2,45.00
+SZAFA_PAX_01,Zawias_Blum,4.0,szt,12.50
+SZAFA_PAX_01,Wkret_Konformat,16.0,szt,0.15
+STOL_LOFT_02,Blat_Debowy_30mm,1.2,m2,220.00
+STOL_LOFT_02,Noga_Metalowa_Czarna,4.0,szt,65.00
+STOL_LOFT_02,Wkret_Do_Drewna,8.0,szt,0.20
+KOMODA_MALM_03,Plyta_MDF_16mm,2.8,m2,55.00
+KOMODA_MALM_03,Prowadnica_Szuflady,6.0,szt,18.00
+KOMODA_MALM_03,Uchwyt_Aluminiowy,3.0,szt,8.50
