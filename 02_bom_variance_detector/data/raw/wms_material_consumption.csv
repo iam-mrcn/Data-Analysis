@@ -1,0 +1,13 @@
+﻿order_id,product_id,produced_qty,component_name,actual_consumed_qty
+ORD-2026-001,SZAFA_PAX_01,10,Plyta_Wiorowa_18mm,42.5
+ORD-2026-001,SZAFA_PAX_01,10,Zawias_Blum,40.0
+ORD-2026-001,SZAFA_PAX_01,10,Wkret_Konfirmat,165.0
+ORD-2026-002,STOL_LOFT_02,5,Blat_Debowy_30mm,6.0
+ORD-2026-002,STOL_LOFT_02,5,Noga_Metalowa_Czarna,20.0
+ORD-2026-002,STOL_LOFT_02,5,Wkret_Do_Drewna,40.0
+ORD-2026-003,KOMODA_MALM_03,20,Plyta_MDF_16mm,59.2
+ORD-2026-003,KOMODA_MALM_03,20,Prowadnica_Szuflady,144.0
+ORD-2026-003,KOMODA_MALM_03,20,Uchwyt_Aluminiowy,60.0
+ORD-2026-004,SZAFA_PAX_01,15,Plyta_Wiorowa_18mm,58.0
+ORD-2026-004,SZAFA_PAX_01,15,Zawias_Blum,68.0
+ORD-2026-004,SZAFA_PAX_01,15,Wkret_Konfirmat,240.0
