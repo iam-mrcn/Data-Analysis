@@ -1,0 +1,17 @@
+﻿claim_id,product_id,stage,timestamp,department
+C-101,SZAFA_PAX_01,01_Zgloszenie_Klienta,2026-03-01 08:30:00,BOK
+C-101,SZAFA_PAX_01,02_Weryfikacja_Jakosci,2026-03-01 11:15:00,Jakosc
+C-101,SZAFA_PAX_01,03_Zlecenie_Produkcji,2026-03-02 09:00:00,Produkcja
+C-101,SZAFA_PAX_01,04_Wysylka_Komponentu,2026-03-03 14:20:00,Logistyka
+C-102,KOMODA_MALM_03,01_Zgloszenie_Klienta,2026-03-01 09:15:00,BOK
+C-102,KOMODA_MALM_03,02_Weryfikacja_Jakosci,2026-03-04 16:45:00,Jakosc
+C-102,KOMODA_MALM_03,03_Zlecenie_Produkcji,2026-03-05 10:30:00,Produkcja
+C-102,KOMODA_MALM_03,04_Wysylka_Komponentu,2026-03-06 11:00:00,Logistyka
+C-103,STOL_LOFT_02,01_Zgloszenie_Klienta,2026-03-02 10:00:00,BOK
+C-103,STOL_LOFT_02,02_Weryfikacja_Jakosci,2026-03-02 13:00:00,Jakosc
+C-103,STOL_LOFT_02,03_Zlecenie_Produkcji,2026-03-02 15:30:00,Produkcja
+C-103,STOL_LOFT_02,04_Wysylka_Komponentu,2026-03-03 09:15:00,Logistyka
+C-104,SZAFA_PAX_01,01_Zgloszenie_Klienta,2026-03-02 11:30:00,BOK
+C-104,SZAFA_PAX_01,02_Weryfikacja_Jakosci,2026-03-06 14:00:00,Jakosc
+C-104,SZAFA_PAX_01,03_Zlecenie_Produkcji,2026-03-07 08:45:00,Produkcja
+C-104,SZAFA_PAX_01,04_Wysylka_Komponentu,2026-03-08 12:00:00,Logistyka
